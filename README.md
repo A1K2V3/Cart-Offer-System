@@ -52,7 +52,7 @@ Copy and update the `.local.env` with correct base URL and other credentials:
 ### Run all tests
 
 ```bash
-pytest --alluredir=reports/
+pytest --alluredir=allure-report/
 ```
 
 ### Run a specific suite
