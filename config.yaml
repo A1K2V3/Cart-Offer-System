@@ -1,0 +1,28 @@
+users:
+  - user_id: 1
+    segment: p1
+  - user_id: 2
+    segment: p2
+  - user_id: 3
+    segment: p3
+
+offers:
+  - restaurant_id: 1
+    offer_type: FLATX
+    offer_value: 10
+    customer_segment: ["p1"]
+
+  - restaurant_id: 1
+    offer_type: FLAT%
+    offer_value: 10
+    customer_segment: ["p2"]
+
+  - restaurant_id: 2
+    offer_type: FLATX
+    offer_value: 50
+    customer_segment: ["p1"]
+
+  - restaurant_id: 2
+    offer_type: FLAT%
+    offer_value: 25
+    customer_segment: ["p3"]

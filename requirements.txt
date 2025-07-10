@@ -1,0 +1,7 @@
+pytest
+allure-pytest
+python-dotenv
+PyYAML
+requests
+pytest-html
+pytest-sugar
