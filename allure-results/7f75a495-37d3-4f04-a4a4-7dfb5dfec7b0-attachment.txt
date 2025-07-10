@@ -1,0 +1,2 @@
+2025-07-10 12:36:47 [[32mINFO[0m] POST Request to http://localhost:9001/api/v1/cart/apply_offer with kwargs: {'json': {}}
+2025-07-10 12:36:47 [[32mINFO[0m] Response: 200 - {"cart_value":0}
