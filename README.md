@@ -25,7 +25,6 @@ This repository contains a robust, scalable, and backend-agnostic test automatio
     ├── test_business_logic_validation.py
     ├── test_contract_validation.py
     └── test_discount_logic.py
----
 
 ## 🚀 Getting Started
 
