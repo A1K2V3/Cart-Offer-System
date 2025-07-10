@@ -52,7 +52,7 @@ Copy and update the `.local.env` with correct base URL and other credentials:
 ### Run all tests
 
 ```bash
-pytest --alluredir=allure-report/
+pytest --alluredir=allure-results/
 ```
 
 ### Run a specific suite
@@ -64,7 +64,7 @@ pytest tests/test_cart_offer_flat.py
 ### Run with environment
 
 ```bash
-pytest --alluredir=allure-report --envfile=.local.env
+pytest --alluredir=allure-results --envfile=.local.env
 ```
 
 ---
